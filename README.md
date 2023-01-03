@@ -1,4 +1,4 @@
-#### Namaste Geeks _/\_
+#### Namaste Geeks 
 
 - 🔭 I’m currently working on various open-source project.
 - 🌱 I’m currently learning Competitive Programming.
