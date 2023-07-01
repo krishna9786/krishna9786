@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/krishna_97/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
-- 💬 Ask me about **React, DS/Algo, BlockChain, AI**
+- 💬 Ask me about **DS/Algo, BlockChain, AI**
 
 - 📫 How to reach me **krishnaluv9786@gmail.com**
 
