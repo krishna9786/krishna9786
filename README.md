@@ -1,5 +1,5 @@
 <div style="background-color: rgb(21, 22, 21);">
-<h1 align="center">Namaste Geeks👋, I'm Krishna Nand</h1>
+<h1 align="center">Namaste Geeks🙏, I'm Krishna Nand</h1>
 <h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
 <img align = "right" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding">
 
