@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | M.S. Computer Science (Grade 1.3) | München, Germany</h3>
 <img align = "right" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding">
 
-- 📍 **Based in:** Berlin, Germany (Chancenkarte — Full Work Authorisation)
+- 📍 **Based in:** München, Germany (Chancenkarte — Full Work Authorisation)
 - 🎓 **Education:** M.S. in Computer Science (Grade 1.3) — University of Mumbai
 - ⚔️ **LeetCode:** Knight (Top 4.7% Worldwide | Rating: 1919)
 - 📝 **Writing:** 400+ Technical Articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/krishna_97/) (500k+ views)
