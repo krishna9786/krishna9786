@@ -1,6 +1,6 @@
 <div style="background-color: rgb(21, 22, 21);">
 <h1 align="center">Hi, I'm Krishna Nand</h1>
-<h3 align="center">Software Engineer | M.S. Computer Science (Grade 1.3) | Berlin, Germany</h3>
+<h3 align="center">Software Engineer | M.S. Computer Science (Grade 1.3) | München, Germany</h3>
 <img align = "right" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding">
 
 - 📍 **Based in:** Berlin, Germany (Chancenkarte — Full Work Authorisation)
